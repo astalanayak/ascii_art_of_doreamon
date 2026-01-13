@@ -23,3 +23,6 @@ This project is ideal for beginners who want to improve their logical thinking i
 
 
 A simple Python project showcasing logical pattern generation through ASCII art.
+
+## Reference Image
+ ![alt text](<image/doreamon ascii.jpeg>)
